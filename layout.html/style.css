@@ -1,0 +1,75 @@
+*{
+     padding: 0;
+     margin: 0;
+}
+body {
+     font-family: 'Poppins', sans-serif !important;
+}
+img{
+     height: 100%;
+     width: 100%;
+}
+.banner{
+     background-image: url(image/2.png);
+     height: 400px;
+     width: 100%;
+     text-align: center;
+     color: aliceblue;
+     padding-top: 210px;
+}
+.banner h1{
+     font-size: 45px;
+     margin-bottom: 12px;
+     letter-spacing: 2;
+}
+
+
+
+.banner p {
+    font-size: 20px;
+    padding-bottom: 8px;
+    color: rgb(160, 148, 148);
+    margin-bottom: 25px;
+}
+.banner a, .content a{
+          text-decoration: none;
+          color: rgb(168, 158, 158);
+          background: linear-gradient(40deg, #2485d5, #272b2c);
+          margin-bottom: 15px;
+          padding: 15px;
+          border-radius: 25px;
+     }
+.content h1{
+     font-size: 65px;
+     margin-top: 12px;
+     padding: 20px;
+     letter-spacing: 2px;
+    
+
+}
+.content h1 span{
+     color: cornflowerblue;
+     letter-spacing: 2px;
+}
+.content p{
+     padding: 20px;
+     font-size: 15px;
+     letter-spacing: 2px;
+     margin:12px 20px;
+     
+}
+.col-half {
+     width: 49%;
+     float: left;
+}
+.skip-diet{
+     padding-top: 50px;
+     
+}
+.skip-diet a {
+     margin-left: 20px;
+}
+.diet-food{
+    
+
+}
